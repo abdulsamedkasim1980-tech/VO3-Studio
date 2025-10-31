@@ -1,0 +1,5 @@
+{
+  "name": "Copy of VO3 Studio: AI-Enhanced Video Creator",
+  "description": "A client-side, privacy-first video creation tool to turn images and audio into compelling videos. Features AI-powered content analysis using Gemini, audio previews with Tone.js, and in-browser video generation.",
+  "requestFramePermissions": []
+}
